@@ -1,6 +1,6 @@
-# 🎨 Design Patterns in C#
+# 🎨 Design Patterns in C# & Typescript
 
-This is a learning repository that demonstrates various design patterns in real-world .NET implementations.
+This is a learning repository that demonstrates various design patterns in real-world .NET & Typescript implementations.
 
 ## 🧠 Covered Patterns
 ### Creational
@@ -10,16 +10,19 @@ This is a learning repository that demonstrates various design patterns in real-
 
 ### Structural
 - Adapter
-- Decorator
-- Proxy
+- Composite
+- Repository
 
 ### Behavioral
-- Strategy
-- Command
+- Mediator
 - Observer
+- State
+- Strategy
+- Template
+- Visitor
 
 ## 🧪 Testing
-Each pattern has unit tests using xUnit.
+Each pattern has unit tests using xUnit for C# and Jest for Typescript
 
 ## 📄 License
 MIT
